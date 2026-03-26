@@ -112,7 +112,7 @@ The project includes the following visual outputs:
 
 ## Project Structure
 
-```id="7k0m0d"
+```id="n1vxy2"
 cnn-kernel-pooling-analysis/
 │
 ├── cnn_kernel_pooling_analysis_24160377.ipynb
@@ -145,6 +145,16 @@ Machine learning models may inherit biases from training data. Although MNIST is
 * Clear visualisations with labels and titles
 * Simple and understandable explanations
 * Structured layout for readability
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the inclusion of the original copyright notice.
+
+The software is provided "as is", without warranty of any kind.
 
 ---
 
